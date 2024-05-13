@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @GyulaVM
+- 👀 I’m interested in Data Analysis and Data Engineering
+- 🌱 I’m currently learning Python and Azure
+- 💞️ I’m looking to collaborate on Power BI projects
+- 📫 How to reach me: dm
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have more Lego than hair (balding hard)
